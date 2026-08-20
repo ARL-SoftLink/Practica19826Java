@@ -1,0 +1,12 @@
+# Carpetas compiladas
+build/
+dist/
+nbproject/private/
+
+# Archivos del sistema y editor
+*.swp
+*.lock
+.DS_Store
+
+# Si usas propiedades locales (opcional)
+# local.properties
