@@ -1,3 +1,4 @@
+package com.mycompany.practica19826_java.ejercicio10;
 public class Producto {
     String nombre;
     double precio;

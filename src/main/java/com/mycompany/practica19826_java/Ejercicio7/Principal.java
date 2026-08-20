@@ -1,3 +1,4 @@
+package com.mycompany.practica19826_java.Ejercicio7;
 public class Principal {
     public static void main(String[] args) {
         Estudiante[] grupo = new Estudiante[3]; // 3 referencias null

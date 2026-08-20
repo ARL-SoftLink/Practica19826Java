@@ -1,3 +1,4 @@
+package com.mycompany.practica19826_java.ejercicio8;
 public class Principal {
     public static void depositar(CuentaBancaria c, double monto) {
         c.saldo = c.saldo + monto;

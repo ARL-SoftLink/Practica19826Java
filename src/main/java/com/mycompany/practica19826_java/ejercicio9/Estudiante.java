@@ -1,3 +1,4 @@
+package com.mycompany.practica19826_java.ejercicio9;
 public class Estudiante {
     String nombre;
     double nota;

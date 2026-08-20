@@ -1,3 +1,4 @@
+package com.mycompany.practica19826_java.ejercicio10;
 public class Principal {
     public static void main(String[] args) {
         Producto[] inventario = new Producto[3];

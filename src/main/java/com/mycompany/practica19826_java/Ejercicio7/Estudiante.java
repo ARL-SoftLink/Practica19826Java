@@ -1,3 +1,4 @@
+package com.mycompany.practica19826_java.Ejercicio7;
 // Archivo: Estudiante.java
 public class Estudiante {
     String nombre;
@@ -8,4 +9,5 @@ public class Estudiante {
         this.nota = nota;
     }
 }
+
 
